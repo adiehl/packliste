@@ -16,6 +16,7 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - USB3 Speicherkartenleser
 - Displayport auf VGA/HDMI/DVI Multiadapter
 - Spitzer
+- USB-Ventilator
 
 
 ### Medizinprodukte und Körperpflege
@@ -47,7 +48,7 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - Chilipulver
 - Smartphonehalterung für Auto (z. B. Kenu Airframe o. Ä.)
 - Getränke (3x 0,5l)
-- Mülsiriegel
+- Müsliriegel
 
 ## Koffer (für mehrtägige Reisen)
 
@@ -95,6 +96,20 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - Bleistifte
 - Notizblock
 - Sojamilch
+
+## Camping / Wohnwagen
+
+### Internet
+- SIM-Karte / Vertrag für LTE-Router aufladen
+
+### Bordmittel
+
+- Ersatzteile für Wasserpumpe
+- Netzteile für 12V
+- WC-Lösung für Campingtoilette
+- Toilettenpapier
+- Klebeband
+- Werkzeugkoffer
 
 ## Kameratasche
 - Digicam, Speicherkarte
