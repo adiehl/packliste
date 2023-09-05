@@ -33,6 +33,7 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - Feuchtes Toilettenpapier
 - Desinfektionsmittel
 - Nivea-Creme
+- Ohropax
 
 
 ### Sonstiges
