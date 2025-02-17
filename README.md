@@ -4,18 +4,17 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 
 ### Elektro
 - Laptop
-- 1 Android-Tablet
-- 1 iPad samt Ladegerät
+- 1 iPad samt Ladekabel
 - 1 Netzwerkkabel min. cat 5e > 1,5m
 - USB-Kabel Micro-USB
 - USB-Kabel USB-C
-- Y-Kabel 3,5mm Klinke auf 2x 3,5mm Buchse
 - Geräuschunterdrückende Kopfhörer
 - Normale Kopfhörer
 - Laptop-Maus
-- USB3 Speicherkartenleser
-- Displayport auf VGA/HDMI/DVI Multiadapter
+- Docking-Station
 - Spitzer
+- Bleistifte
+- Laptop-Ladekabel
 - USB-Ventilator
 
 
@@ -26,22 +25,20 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - Kochsaltzlösung für Kontaktlinsen
 - 1 Nasenspray mit Xylometazolinhydrocholorid
 - 1 Packung Ibuprofen
-- 100 ml Wodka oder Schnaps
 - Mini-Deospray
 - Zahnbürste
 - Minizahnpasta
 - Feuchtes Toilettenpapier
 - Desinfektionsmittel
-- Nivea-Creme
+- Hautcreme
 - Ohropax
 
 
 ### Sonstiges
-- Karte für Carsharing
 - Krankenkassenkarte
 - Nähset
-- Minipäckchen Salz+Pfeffer (z. B. zu beziehen von Fastfood-Ketten)
-- Holzpieksergabeln (z. B. zu beziehen von Fastfood-Ketten)
+- Minipäckchen Salz+Pfeffer
+- Holzpieksergabeln
 - Mini-Zuckerpäckchen
 - Süßstofftabletten (Stevia)
 - Ohrstöpsel aus Schaumstoff und Wachs
@@ -66,7 +63,6 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - 1 Packung Kontaktlinsen
 - 1 Packung Kondome
 - Sonnenbrille
-- Brille
 
 ### Kleidung
 - 5 Paar Socken
@@ -82,13 +78,10 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 - Mehrfachsteckdose
 - Ladekabel für Smartwatch
 - Bluetooth-Speaker
-- Audiokabel 3,5 auf 3,5 Klinkenstecker
-- Audiokabel Y-Kabel 3,5 Klickenstecker auf 2x 3,5 Klinkenbuchse
 - USB-Ladegerät
 - USB-Kabel Micro-USB
 - USB-Kabel USB-C
 - HDMI-Kabel
-- Displayport auf HDMI-Adapter
 
 ### Sonstiges
 - Reisepass
@@ -120,6 +113,3 @@ Diese Packliste soll alles darstellen, was ich auf Reisen benötige.
 ### Bei Urlaubsreisen zusätzlich
 - Badehose (bei Reisen ans Meer)
 
-# To-Do-Liste
-Diese To-Dos sollten vor Antritt der Reise vor der angegebenen Zeit 
-erledigt werden.
